@@ -211,6 +211,23 @@ button:focus,
     border-color     : #0e1555;
 	color            : #ffffff;
     }
+	
+/*btn-submission*/
+.btn-submission 
+	{
+		color            : #ffffff;
+		background-color : #3c74a3;
+		border-color     : #3c74a3;
+    }
+
+.btn-submission:hover,
+.btn-submission:focus,
+.btn-submission:active:focus 
+	{
+		background-color : #2e5b82;
+		color            : #ffffff;
+		border-color     : #2e5b82;
+    }
 
 /* --------------------
  * Section Background
