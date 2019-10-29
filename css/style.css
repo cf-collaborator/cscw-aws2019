@@ -584,7 +584,8 @@ button:focus,
     }
 
 .section-ajenda .session time {
-    padding       : 5px 25px 15px;
+    padding       : 5px 25px 5px;
+	font-weight   : bold;
     border-bottom : 1px solid #eeeeee;
     display       : inline-block;
     }
@@ -594,9 +595,10 @@ button:focus,
     }
 
 .section-ajenda .session h3 {
-    margin         : 20px 0 20px 20px;
+    margin         : 5px 0 25px 25px;
     font-size      : 20px;
-    text-transform : uppercase;
+	margin-bottom  : 20px;
+    /*text-transform : uppercase;*/
     }
 
 .section-ajenda .session h3 span {
